@@ -1,0 +1,6 @@
+# Config version is auto-generated
+# DO NOT CHANGE
+configVersion = 1
+# Skip the edit screen when placing signs while sneaking.
+# If disabled on a server, it is also disabled for all players, regardless of this setting.
+modEnabled = true

@@ -1,0 +1,17 @@
+{
+  "renderers": {
+    "random_tickable_chunks": {
+      "pos": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "slime_chunks": {
+      "y_top": 317.4045104980469
+    }
+  },
+  "hud_data": {
+    "seed": 1545213456444500
+  }
+}
