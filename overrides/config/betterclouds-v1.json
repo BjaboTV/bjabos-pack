@@ -1,6 +1,6 @@
 {
+	"migrationVersion": 0,
 	"enabled": true,
-	"distance": 4.0,
 	"randomPlacement": 1.0,
 	"fuzziness": 1.0,
 	"shuffle": false,
@@ -19,6 +19,7 @@
 	"samplingScale": 1.0,
 	"scaleFalloffMin": 0.25,
 	"fogRangeFactor": 1.0,
+	"fogEndFactor": 1.0,
 	"usePersistentBuffers": true,
 	"useFrustumCulling": true,
 	"irisSupport": true,

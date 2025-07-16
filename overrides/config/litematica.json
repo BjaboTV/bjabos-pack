@@ -27,6 +27,7 @@
     "easyPlaceHoldEnabled": true,
     "easyPlaceMode": false,
     "easyPlaceSinglePlayerHandling": true,
+    "easyPlaceSinglePlayerValidation": true,
     "easyPlaceProtocolVersion": "auto",
     "easyPlaceSwingHand": true,
     "easyPlaceVanillaReach": false,
@@ -49,6 +50,7 @@
     "itemUsePacketCheckBypass": true,
     "layerModeFollowsPlayer": false,
     "materialListIgnoreState": false,
+    "materialListRecipeDetails": true,
     "pasteAlwaysUseFill": false,
     "pasteIgnoreBlockEntitiesEntirely": false,
     "pasteIgnoreBlockEntitiesFromFill": true,
@@ -102,6 +104,9 @@
     },
     "easyPlaceUseKey": {
       "keys": "BUTTON_2"
+    },
+    "easyPlaceFirst": {
+      "keys": ""
     },
     "easyPlaceToggle": {
       "keys": ""
@@ -321,6 +326,7 @@
     }
   },
   "InfoOverlays": {
+    "defaultSelectionMode": "simple",
     "blockInfoLinesEnabled": true,
     "blockInfoOverlayEnabled": true,
     "infoOverlaysTargetFluids": false,
@@ -376,7 +382,6 @@
     "renderSchematicTileEntities": true,
     "renderTranslucentBlockInnerSides": false,
     "schematicOverlayEnableOutlines": true,
-    "schematicOverlayEnableResorting": false,
     "schematicOverlayEnableSides": true,
     "schematicOverlayModelOutline": true,
     "schematicOverlayModelSides": true,
@@ -386,7 +391,6 @@
     "schematicOverlayTypeMissing": true,
     "schematicOverlayTypeWrongBlock": true,
     "schematicOverlayTypeWrongState": true,
-    "schematicVerifierUseBlockModels": false,
     "ghostBlockAlpha": 0.5,
     "placementBoxSideAlpha": 0.2,
     "schematicOverlayOutlineWidth": 1.0,

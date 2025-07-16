@@ -1,6 +1,6 @@
 {
   "automaticallyStart": false,
-  "automaticallyFinish": true,
+  "automaticallyFinish": false,
   "showRecordingToasts": true,
   "quicksave": false,
   "hidePauseMenuControls": true,

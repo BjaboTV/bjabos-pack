@@ -20,8 +20,12 @@
   "recentReplays": [],
   "defaultExportFilename": "%date%T%time%",
   "defaultInterpolationType": "SMOOTH",
+  "useRealtimeInterpolation": true,
   "disableIncreasedFirstPersonUpdates": false,
   "disableThirdPersonCancel": false,
+  "exportRenderDummyFrames": [
+    0
+  ],
   "replaySorting": "CREATED_DATE",
   "sortDescending": true,
   "resolution": [

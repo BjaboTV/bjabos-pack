@@ -58,7 +58,8 @@
     "infoHorseJump": 55,
     "infoPandaGene": 56,
     "infoDolphinTreasure": 57,
-    "infoEntityVariant": 58
+    "infoEntityVariant": 58,
+    "infoEntityHomePos": 59
   },
   "Colors": {
     "beaconRangeLvl1": "#20E060FF",
@@ -137,8 +138,6 @@
     "entityDataSyncBackup": false,
     "entityDataSyncCacheRefresh": 0.25,
     "entityDataSyncCacheTimeout": 0.75,
-    "entityDataSyncLoadNbt": false,
-    "infoLinesUsesNbt": true,
     "lightLevelAutoHeight": false,
     "lightLevelCollisionCheck": false,
     "lightLevelColoredNumbers": true,
@@ -301,7 +300,8 @@
     "infoHorseJump": false,
     "infoPandaGene": false,
     "infoDolphinTreasure": false,
-    "infoEntityVariant": false
+    "infoEntityVariant": false,
+    "infoEntityHomePos": false
   },
   "InfoHotkeys": {
     "infoFPS": {
@@ -479,6 +479,9 @@
       "keys": ""
     },
     "infoEntityVariant": {
+      "keys": ""
+    },
+    "infoEntityHomePos": {
       "keys": ""
     }
   },
