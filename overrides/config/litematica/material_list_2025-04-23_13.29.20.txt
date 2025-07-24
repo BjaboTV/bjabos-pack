@@ -1,0 +1,31 @@
++---------------------+-------+---------+---------------------------------------------+
+| Material List for schematic 'The Simplest Shulker Farm v3 1.20.4+' (1 of 1 regions) |
++---------------------+-------+---------+---------------------------------------------+
+| Item                | Total | Missing |                                   Available |
++---------------------+-------+---------+---------------------------------------------+
+| Glatte Steinstufe   |  1211 |    1211 |                                           0 |
+| Gerüst              |  1169 |    1169 |                                           0 |
+| Steinziegelmauer    |    64 |      64 |                                           0 |
+| Steinziegeltreppe   |    37 |      37 |                                           0 |
+| Eichenholzknopf     |    16 |      16 |                                           0 |
+| Trichter            |    10 |      10 |                                           0 |
+| Beobachter          |     7 |       7 |                                           0 |
+| Eichenholzzaun      |     7 |       7 |                                           0 |
+| Truhe               |     6 |       6 |                                           0 |
+| Redstone-Staub      |     5 |       5 |                                           0 |
+| Eichenholzfalltür   |     2 |       2 |                                           0 |
+| Eichenholzschild    |     2 |       2 |                                           0 |
+| Redstone-Verstärker |     2 |       2 |                                           0 |
+| Eichenholztür       |     1 |       1 |                                           0 |
+| Hebel               |     1 |       1 |                                           0 |
+| Kolben              |     1 |       1 |                                           0 |
+| Notenblock          |     1 |       1 |                                           0 |
+| Redstone-Komparator |     1 |       1 |                                           0 |
+| Schnee              |     1 |       1 |                                           0 |
+| Seelensand          |     1 |       1 |                                           0 |
+| Spender             |     1 |       1 |                                           0 |
+| Spinnennetz         |     1 |       1 |                                           0 |
+| Wassereimer         |     1 |       1 |                                           0 |
++---------------------+-------+---------+---------------------------------------------+
+| Item                | Total | Missing |                                   Available |
++---------------------+-------+---------+---------------------------------------------+

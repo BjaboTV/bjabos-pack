@@ -1,0 +1,16 @@
+{
+  "autoEnabled": true,
+  "autoShowNameTags": false,
+  "autoSize": 7,
+  "autoCloseDistance": 128.0,
+  "autoFarDistance": 332.0,
+  "autoCloseAlpha": 1.0,
+  "autoFarAlpha": 0.2,
+  "enabled": true,
+  "showNameTags": false,
+  "size": 7,
+  "closeDistance": 128.0,
+  "farDistance": 332.0,
+  "closeAlpha": 1.0,
+  "farAlpha": 0.2
+}

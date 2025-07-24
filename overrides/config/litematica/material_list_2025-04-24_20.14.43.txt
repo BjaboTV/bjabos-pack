@@ -1,0 +1,19 @@
++-------------------+-------+---------+------------------+
+| Material List for schematic 'Unnamed' (1 of 1 regions) |
++-------------------+-------+---------+------------------+
+| Item              | Total | Missing |        Available |
++-------------------+-------+---------+------------------+
+| Glatter Stein     |   546 |     546 |                0 |
+| Bruchsteinmauer   |   128 |     128 |                0 |
+| Leiter            |   125 |     125 |                0 |
+| Eichenholzfalltür |   112 |     112 |                0 |
+| Pilzlicht         |    72 |      72 |                0 |
+| Erde              |    56 |      56 |                7 |
+| Wirrpilz          |    56 |      56 |                0 |
+| Seelensand        |    40 |      40 |                0 |
+| Trichter          |    40 |      40 |                0 |
+| Truhe             |    14 |      14 |                0 |
+| Eichenholzknopf   |     7 |       7 |                0 |
++-------------------+-------+---------+------------------+
+| Item              | Total | Missing |        Available |
++-------------------+-------+---------+------------------+

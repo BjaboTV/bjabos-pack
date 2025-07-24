@@ -1,0 +1,8 @@
+{
+  "enableOnIp": [
+    "geister.g-portal.game",
+    "gekko.g-portal.game",
+    "japierdole.minecraftserver.de"
+  ],
+  "disableOnIp": []
+}
